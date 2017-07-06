@@ -17,7 +17,7 @@ node -v
 
 Clone repository to your machine.
 ```
-https://github.com/TRenfro/npm-script-local-dev
+git clone https://github.com/TRenfro/npm-script-local-dev.git
 ```
 
 Install dependencies.
