@@ -1,0 +1,14 @@
+
+.welcome-hero {    
+    background:      linear-gradient(135deg,
+        rgba(#be2a32, 0.95), 
+        rgba(#be2a32, 0.20)
+      ),
+      url('/images/welcome-hero-bg.jpg');
+      background-color: transparent !important;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;      
+      background-blend-mode: multiply;
+}

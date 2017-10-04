@@ -1,5 +1,17 @@
 //Framework
-@import 'framework/bootstrap';
+@import 'framework/utilities/all';
+@import 'framework/grid/all';
+@import 'framework/layout/all';
+@import 'framework/base/all';
+@import 'framework/components/all';
+@import 'framework/elements/all';
+
 
 //Theme
 @import 'theme/globals';
+@import 'theme/variables';
+@import 'theme/utilities';
+@import 'theme/typography';
+
+//Templates
+@import 'templates/welcome';
